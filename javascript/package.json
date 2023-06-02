@@ -1,7 +1,7 @@
 {
   "name": "qiwi_p2p_keys_getter",
   "version": "0.0.1",
-  "description": "Getter of Qiwi's API P2P merchant keys by Aniby.NET",
+  "description": "Getter of Qiwi's API P2P merchant keys by An1by",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
