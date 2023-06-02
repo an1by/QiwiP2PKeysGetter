@@ -20,7 +20,7 @@ async function get_authorize_code() {
 		{
 			headers: {
 				"Content-Type": "application/x-www-form-urlencoded",
-				"Cookie": 'token-tail-web-qw=' + ht_2
+				"Cookie": "token-tail-web-qw=%s" % ht_2
 			}
 		}
 	);
